@@ -1,0 +1,2745 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: single.php:315 single.php:201 index.php:242 page-blog.php:153
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: comments.php:27
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: single.php:315 single.php:201 index.php:242 page-blog.php:153
+msgid "1 Comments"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "404 Page"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:37
+msgid ""
+"<p><span>You can apply your desired settings</span><span>for different "
+"sections</span>"
+msgstr ""
+
+#. Text in echo
+#: 404.php:9
+msgid ""
+"<p>Please try using our search box below to look for information on the "
+"internet</p>"
+msgstr ""
+
+#. Text in echo
+#: 404.php:8
+msgid ""
+"<p>The page you are looking for might have been removed, had its name "
+"changed, or is temporarily unavailable.</p>"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:35
+msgid "<p>Welcome To Setting Section</p>"
+msgstr ""
+
+#. Text in echo
+#: persian-art-flickr-wigdet.php:94
+msgid "<small>Maximum 150.</small>"
+msgstr ""
+
+#. Text in echo
+#: persian-art-flickr-wigdet.php:89
+msgid "<small>Maximum 20.</small>"
+msgstr ""
+
+#. Text in echo
+#: persian-art-flickr-wigdet.php:108
+msgid "<small>These are flickr special sizes</small>"
+msgstr ""
+
+#. Text in echo
+#: persian-art-flickr-wigdet.php:84
+msgid ""
+"<small>To find your ID go to <a href=\"http://idgettr.com\">idgettr</a>.</"
+"small>"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "<strong>\"pause animation\"</strong> while hovering."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "<strong>\"timeout\"</strong> between slide animation (ms)."
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:36
+msgid "<strong>Yellow Bird</strong>"
+msgstr ""
+
+#. Text in echo
+#: single.php:393
+msgid "About the Author"
+msgstr ""
+
+#. Text in echo
+#: index.php:137
+msgid "About: "
+msgstr ""
+
+#. Text in echo
+#: persian-art-twitter-wigdet.php:119
+msgid "Access token secret:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-twitter-wigdet.php:115
+msgid "Access token:"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Add cufon font"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Add sidebar"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "All Backgrounds"
+msgstr ""
+
+#. Text in echo
+#: index.php:94
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Back To Top"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Back to Top"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Bar information"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Bgstretcher Slider"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Body / General"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Body Background"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Body font"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Body pattern"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Body wrapper properties <small>(usefull for boxed layout)</small>"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Breadcrumb"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Breadcrumb align"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Breadcrumb on home"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:158
+msgid "Carousel status:"
+msgstr ""
+
+#. Text in function
+#: index.php:94
+msgid "Category Archives: %s"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Choose and upload your favicon.<br />Best siz is 16x16 px."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"Choose and upload your image from here.<br />use the following fields "
+"respectively for set parameter:<br /><strong>\"left\"</strong> <strong>\"top"
+"\"</strong> <strong>\"repeat\"</strong> &amp;<strong>\"fix\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Choose and upload your logo from here."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Choose and write copyright"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Class"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:144
+msgid "Class:"
+msgstr ""
+
+#. Text in function
+#: comments.php:36
+msgid "Comment "
+msgstr ""
+
+#. Text in echo
+#: comments.php:26
+msgid "Comment Navigation"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:225
+msgid "Comment error message:"
+msgstr ""
+
+#. Text in echo
+#: comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: persian-art-contact-widget.php:1 contactform.php:19
+msgid "Comments: "
+msgstr ""
+
+#. Text in echo
+#: persian-art-twitter-wigdet.php:107
+msgid "Consumer key:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-twitter-wigdet.php:111
+msgid "Consumer secret:"
+msgstr ""
+
+#. Text in function
+#: persian-art-contact-widget.php:1 contactform.php:19
+msgid "Contact Form Submission from "
+msgstr ""
+
+#. Text in function
+#: persian-art-contact-widget.php:1
+msgid "Contact Me"
+msgstr ""
+
+#. Text in function
+#: persian-art-contact-widget.php:1
+msgid "Contact form widget"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "ContactForm / Comment"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Content wrapper properties"
+msgstr ""
+
+#. Text in echo
+#: index.php:250 page-blog.php:161
+msgid "Continue Reading"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Copyright"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Copyright Setting"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Custom style"
+msgstr ""
+
+#. Text in echo
+#: single.php:181 single.php:213
+msgid "Date:"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4366
+msgid "Default"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4253 theme-option.php:4325
+msgid "Delete Confirmation"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Delicious"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Digg"
+msgstr ""
+
+#. Text in echo
+#: persian-art-flickr-wigdet.php:92
+msgid "Dimension"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display \"back to top\""
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display Socials"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display background image"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display breadcrumb"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display copyright"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display favicon"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display footer navigation"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:151
+msgid "Display image:"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display logo"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display sidebar divider"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display slogan"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display slogan controls"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display top bar"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display top information"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display top navigation"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Display top search"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Editor style"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Effect properties"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:165
+msgid "Effect:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:213
+msgid "Email error message:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:209
+msgid "Email label/placeholder:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:217
+msgid "Email validate error message:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:184
+msgid "Email:"
+msgstr ""
+
+#. Text in function
+#: persian-art-contact-widget.php:1 contactform.php:19
+msgid "Email: "
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Enable custom css"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Enable tracking code"
+msgstr ""
+
+#. Text in echo
+#: 404.php:6
+msgid "Error 404 Not Found"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Face Book"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Favicon"
+msgstr ""
+
+#. Text in function
+#: persian-art-flickr-wigdet.php:110
+msgid "Flickr Widget"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Font Family"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Font Size"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Font Upload"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Footer Status"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Footer Widget"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Footer status"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Footer widgets status"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Footer widgets title font"
+msgstr ""
+
+#. Text in function
+#: contactform.php:19
+msgid "From: My Site "
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Google"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Header"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Headings font"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:142 contactform.php:133
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Image Setting"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4319
+msgid "Insert font"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4494
+msgid "Insert image"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Items color"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:193
+msgid "Label or Placeholder:"
+msgstr ""
+
+#. Text in function
+#: comments.php:36
+msgid "Leave a Comments"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Left text"
+msgstr ""
+
+#. Text in echo
+#: persian-art-post-cycle-widget.php:155
+#: persian-art-testimonial-widget.php:136
+#: persian-art-recent-posts-widget.php:96
+msgid "Limit text:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-recent-posts-widget.php:116
+msgid "Link text:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-recent-posts-widget.php:120
+msgid "Link url:"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Linkedin"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Logo margin size"
+msgstr ""
+
+#. Text in function
+#: comments.php:36
+msgid "Mail (will not be published) "
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Main (content & sidebar wrapper)"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Main Navigation"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Main menu properties"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Main navigation font"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Main navigation wrapper"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Main sub menu properties"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Margin from bottom"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Margin from edge"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Menu divider"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:221
+msgid "Message label/placeholder:"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Middle text"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Miscellaneous"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "My Space"
+msgstr ""
+
+#. Text in function
+#: comments.php:36
+msgid "Name "
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:205
+msgid "Name error message:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:201
+msgid "Name label/placeholder:"
+msgstr ""
+
+#. Text in function
+#: persian-art-contact-widget.php:1 contactform.php:19
+msgid "Name: "
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Navigation arrow"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:179
+msgid "Navigation:"
+msgstr ""
+
+#. Text in function
+#: comments.php:28
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: single.php:233 single.php:332 single.php:379 single.php:522
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Nivo Slider"
+msgstr ""
+
+#. Text in function
+#: single.php:315 single.php:201 index.php:242 page-blog.php:153
+msgid "No Comments"
+msgstr ""
+
+#. Text in echo
+#: index.php:263
+msgid "No Results"
+msgstr ""
+
+#. Text in echo
+#: persian-art-flickr-wigdet.php:87
+msgid "Number of photo"
+msgstr ""
+
+#. Text in echo
+#: persian-art-post-cycle-widget.php:166
+#: persian-art-testimonial-widget.php:140
+#: persian-art-recent-posts-widget.php:112
+msgid "Number of posts to show:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-twitter-wigdet.php:127
+msgid "Number of tweet:"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Page Style"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Page comment"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Pagination"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Past tracking code"
+msgstr ""
+
+#. Text in function
+#: contactform.php:19
+msgid "Phone: "
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:54
+msgid "Please Waiting"
+msgstr ""
+
+#. Text in echo
+#: index.php:264
+msgid "Please feel free try again!"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Post / Portfolio"
+msgstr ""
+
+#. Text in echo
+#: persian-art-post-cycle-widget.php:159
+msgid "Post type:"
+msgstr ""
+
+#. Text in echo
+#: persian-art-flickr-wigdet.php:97
+msgid "Preview size"
+msgstr ""
+
+#. Text in function
+#: single.php:232 single.php:234 single.php:331 single.php:333 single.php:378
+#: single.php:380
+msgid "Previous"
+msgstr ""
+
+#. Text in echo
+#: persian-art-recent-posts-widget.php:60
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Recaptcha"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Recaptcha private key"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Recaptcha public key"
+msgstr ""
+
+#. Text in function
+#: persian-art-comments-widget.php:63
+msgid "Recent Comments"
+msgstr ""
+
+#. Text in function
+#: persian-art-post-cycle-widget.php:1 persian-art-recent-posts-widget.php:1
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Reddit"
+msgstr ""
+
+#. Text in echo
+#: single.php:246
+msgid "Related Portfolio"
+msgstr ""
+
+#. Text in echo
+#: single.php:406
+msgid "Related Post"
+msgstr ""
+
+#. Text in function
+#: contactform.php:19
+msgid "Reply-To: "
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Responsive"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Right text"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:150 comments.php:36
+msgid "SUBMIT"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:55
+msgid "Save Options Completed"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:55
+msgid "Save Options Failed"
+msgstr ""
+
+#. Text in echo
+#: index.php:94
+msgid "Search For: "
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4515
+msgid "Select Icon"
+msgstr ""
+
+#. Text in echo
+#: persian-art-recent-posts-widget.php:100
+msgid "Select category:"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4319
+msgid "Select cufon font"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Select desired footer style"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4494
+msgid "Select image"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Select sidebar for <strong>\"Archive Page\"</strong>"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Select sidebar for <strong>\"Author Page\"</strong>"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Select sidebar for <strong>\"Category Page\"</strong>"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Select sidebar for <strong>\"Search Page\"</strong>"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Select sidebar for <strong>\"Singlepost Page\"</strong>"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Select sidebar for <strong>\"Tag Page\"</strong>"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set body font size"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for 404 page heading & text"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for 404 search"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for Back to Top"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for all headings"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for author section"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for blog elements"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for body elements"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for breadcrumb text"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for comment elements"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for contact / reply forms"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for contact form widget"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for copyright section"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for flickr widget"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for highlight"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for main menu"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for main menu items"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for main sections"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for main sub menus"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for pagination"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for pagination section"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for portfolio elements"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for portfolio filter"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for portfolio styles"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for post/portfolio/comment widgets"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for related post section"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for slogan text"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for social network background"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for tag/search/calendar widgets"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for testimonial widget"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for theme button"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for titles"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for top bar text"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for top search wrapper"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for top/404 search"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set color for twitter widget"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set font size for headings"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set footer heading font size"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set general color"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set left sidebar radius"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set main navigation font size"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set right sidebar radius"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set sidebar heading font size"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set slogan font size"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set stunning text font size"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Set widget title font size"
+msgstr ""
+
+#. Text in function
+#: persian-art-comments-widget.php:63
+msgid "Show latest comments"
+msgstr ""
+
+#. Text in function
+#: persian-art-recent-posts-widget.php:1
+msgid "Show latest posts"
+msgstr ""
+
+#. Text in function
+#: persian-art-post-cycle-widget.php:1
+msgid "Show latest posts and portfolios"
+msgstr ""
+
+#. Text in function
+#: persian-art-testimonial-widget.php:111
+msgid "Show testimonials"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Side of \"back to top\""
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Sidebar widgets title font"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slider Status"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slider alignment"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slider caption"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slider effects"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slider navigation"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slider position"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slider selection"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slider thumbnails"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slider wrapper"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "SliderWrapper background color"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "SliderWrapper paddings"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slogan"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slogan font"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slogan speed"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slogan wrapper"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Slogans"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Social Algin"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Social Class"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Social Icons (drag and sort items)"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Social Sharing"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Sticky menu"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Stumble Upon"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Stunning text font"
+msgstr ""
+
+#. Text in echo
+#: contactform.php:141
+msgid "Submit"
+msgstr ""
+
+#. Text in echo
+#: persian-art-contact-widget.php:188
+msgid "Successful message:"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Supersubs max width"
+msgstr ""
+
+#. Text in echo
+#: single.php:182 single.php:214
+msgid "Tags:"
+msgstr ""
+
+#. Text in function
+#: persian-art-testimonial-widget.php:111
+msgid "Testimonials"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4393
+msgid "The Sample Text"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Theme style"
+msgstr ""
+
+#. Text in echo
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: persian-art-post-cycle-widget.php:151 persian-art-twitter-wigdet.php:103
+#: persian-art-contact-widget.php:180 persian-art-flickr-wigdet.php:78
+#: persian-art-testimonial-widget.php:132
+#: persian-art-recent-posts-widget.php:92
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Top Bar"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Top Search"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Top bar wrapper"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Top information"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Top information align"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Tracking Code & CSS"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: persian-art-twitter-wigdet.php:130
+msgid "Twitter Feed"
+msgstr ""
+
+#. Text in echo
+#: persian-art-twitter-wigdet.php:123
+msgid "Twitter username:"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Type custom css"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Upload Your Favicon"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Upload Your Logo"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Upload Your body background"
+msgstr ""
+
+#. Text in function
+#: comments.php:36
+msgid "Website "
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:33
+msgid "Welcome"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:22 theme-option.php:46
+msgid "When you apply the desired changes, press this button"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "Widget section"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4253 theme-option.php:4325
+msgid ""
+"You are about to delete this item. <br />It cannot be restored at a later "
+"time! Continue?"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"You can choose between the <strong>\"left &amp; right\"</strong> style or "
+"<strong>\"middle\"</strong> style.<br />click on button, text input will "
+"appear."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"You can past your tracking code here to appear in your pages.<br />This is a "
+"JavaScript code that is something like this:<br /><code>&lt;script type="
+"\"text/javascript\"&gt; ... &lt;/script&gt;</code>"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "You can type custom css here."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"You can write your information to appear in top i.e.<br />&lt;span class="
+"\"email\"&gt;support@company.com&lt;/span&gt;<br />&lt;span class=\"phone"
+"\"&gt;(897) 222 8765&lt;/span&gt;"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"You can write your slogan to appear.<br />slogans must be \"|\" separated "
+"like this:<br />slogan 1 | slogan 2 | etc ..."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "You can write your text to appear in top bar."
+msgstr ""
+
+#. Text in echo
+#: persian-art-flickr-wigdet.php:82
+msgid "Your flickr user ID:"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "a custom <strong>\"easing\"</strong> function during the animation."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "a custom <strong>\"easing\"</strong> function for the animation."
+msgstr ""
+
+#. Text in function
+#: persian-art-flickr-wigdet.php:110
+msgid "a simple flickr widget to demonstrate the Widget API"
+msgstr ""
+
+#. Text in function
+#: persian-art-twitter-wigdet.php:130
+msgid "a simple twitter widget"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4439
+msgid "all"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"controls whether the <strong>\"slide transitions occur simultaneously\"</"
+"strong>.<br /> some effects behave differently.<br />(such as blind, "
+"curtain, and zoom)"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:171
+msgid "cover"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:172
+msgid "cover fade"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"create additional cufon font.<br /> for delete items, click on \"x\" button."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"create additional sidebar.<br /> for delete items, click on \"x\" button."
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:170
+msgid "cross fade"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:147
+msgid "dark"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:146
+msgid "default"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:168
+msgid "direct scroll"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:182
+msgid "direction"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:154
+#: persian-art-testimonial-widget.php:161
+msgid "disable"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "disable/enable <strong>\"auto slider\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "disable/enable <strong>\"pagination\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "disable/enable <strong>\"second image & caption animation\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "disable/enable <strong>\"shadow\"</strong> for body wrapper."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "displays <strong>\"how slides play\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "displays <strong>\"which slide on\"</strong> page load."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"displays <strong>\"which slide\"</strong> on page load (index of slide)."
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:153
+#: persian-art-testimonial-widget.php:160
+msgid "enable"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "enable/disable \"slogan controls\"."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "enable/disable \"slogan\"."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "enable/disable <strong>\"autoplay\"</strong> animation."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "enable/disable <strong>\"caption\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"enable/disable <strong>\"reverses\"</strong> the direction in which "
+"Roundabout will operate."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "enable/disable <strong>\"rounded corner\"</strong> for slider wrapper."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "enable/disable <strong>direction\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "enable/disable breadcrumb on homepage."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "enable/disable social icons."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "enable/disablee <strong>\"autoplay\"</strong> animation."
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:169
+msgid "fade"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "from here you can disable or enable custom css."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "from here you can disable or enable tracking code."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "from here you can show or hide backtotop."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "from here you can show or hide breadcrumb."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "from here you can show or hide top bar."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "from here you can show or hide top information section."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "from here you can show or hide top navigation."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "from here you can show or hide top search."
+msgstr ""
+
+#. Text in echo
+#: page-contact.php:97
+msgid "google map"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "how show <strong>\"direction\"</strong>."
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4295
+msgid "main left"
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4293
+msgid "main right"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"margin from bottom of window.<br />with \"px\" or in percent for ex. 200px "
+"or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "margin from left or right edge of body.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:175
+#: persian-art-testimonial-widget.php:181
+msgid "none"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "number of <strong>\"boxCols\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "number of <strong>\"boxRows\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "number of <strong>\"slices\"</strong>."
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:183
+msgid "pagination"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "pattern attachment fix."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "place <strong>\"recaptcha private key\"</strong> here."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "place <strong>\"recaptcha public key\"</strong> here."
+msgstr ""
+
+#. Text in function
+#: single.php:521
+msgid "previous"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"put <strong>\"title on bottom\"</strong> of the slider wrapper.<br />when it "
+"is on, caption text is hidden"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"put <strong>\"title on top\"</strong> of the slider elements.<br />when it "
+"is on, caption text is hidden"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "replace desired font for all headings."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"replace desired font for body.<br />recommended don`t use cufon as body font."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "replace desired font for footer widget title."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "replace desired font for main navigation."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "replace desired font for sidebar widget title."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "replace desired font for slogan text."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "replace desired font for stunning text."
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:167
+msgid "scroll"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "select <strong>\"align\"</strong> social icons."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "select <strong>\"category\"</strong> to disply on slider."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "select <strong>\"class\"</strong> for dark or light icons."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "select <strong>\"class\"</strong> for navigation."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"select <strong>\"shape\"</strong> for animation.<br />some of them are not "
+"suitable for this theme, It`s your choice."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "select <strong>\"slider\"</strong> you want to use."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "select <strong>\"speed\"</strong> of the animation."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "select menu position."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "select text editor style."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "select the side of \"back to top\" must be appear."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "select theme style."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set \"animation speed\" (ms)."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"Random selection\"</strong> of the first image slider."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"aligment\"</strong> for slider."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"aligment\"</strong> for thumbnails."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"border radius\"</strong>.<br />leave it blank for use default."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"bottom margin\"</strong> for body wrapper.<br />leave it blank "
+"for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"bottom margin\"</strong> for content wrapper.<br />leave it "
+"blank for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"bottom margin\"</strong> for logo.<br />with \"px\" or in "
+"percent for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"bottom margin\"</strong> for slider."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"bottom padding\"</strong> for content wrapper.<br />leave it "
+"blank for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"bottom padding\"</strong> for slider wrapper."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"bottom\"</strong> for caption.<br />with \"px\" or in percent "
+"for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"delay\"</strong> between slide animation (ms)."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"delay\"</strong> in milliseconds that the mouse can remain "
+"outside a submenu without it closing."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"delay\"</strong> time."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"duration\"</strong> for animation (ms)."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"event\"</strong> that triggers the expand effect."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"greatest size\"</strong> (relative to its starting size) that "
+"will be assigned to a moving element."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"height\"</strong> for images."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"height\"</strong> for logo.<br />leave it blank for original "
+"size.<br />without unit for ex. 200"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"height\"</strong> for thumbnails.<br />with \"px\" for ex. "
+"200px"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"interval\"</strong> for next slider (ms)."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"left margin\"</strong> for logo.<br />with \"px\" or in "
+"percent for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"left\"</strong> for caption.<br />with \"px\" or in percent "
+"for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"left\"</strong> for pagination."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"left\"</strong> for thumbnails location.<br />with \"px\" or "
+"in percent for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"lowest opacity\"</strong> that will be assigned to a moving "
+"element."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"lowest size\"</strong> (relative to its starting size) that "
+"will be assigned to a moving element."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"margin bottom\"</strong> for thumbnails.<br />with \"px\" or "
+"in percent for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"margin right\"</strong> for thumbnails.<br />with \"px\" or in "
+"percent for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"margin\"</strong> for pagination."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"max width\"</strong> for supersubs plugin.<br /><b><i>note: "
+"supersubs active when you set color for submenu and submenuitems</i></b>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"maximum height\"</strong> for images."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"maximum width\"</strong> for images."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"number of thumbnails\"</strong> for slide."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"position\"</strong> for slider."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"position\"</strong> for thumbnails."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"right margin\"</strong> for logo.<br />with \"px\" or in "
+"percent for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"right\"</strong> for caption.<br />with \"px\" or in percent "
+"for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"slider position\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"sub-menu border radius\"</strong>.<br />leave it blank for use "
+"default."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"sub-menu item border radius\"</strong>.<br />leave it blank "
+"for use default."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"thumbnails position\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"timeout\"</strong> between slide animation (ms)."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"timeout\"</strong> for animation (ms)."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"top margin\"</strong> for body wrapper.<br />leave it blank "
+"for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"top margin\"</strong> for content wrapper.<br />leave it blank "
+"for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"top margin\"</strong> for logo.<br />with \"px\" or in percent "
+"for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"top margin\"</strong> for slider."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"top padding\"</strong> for content wrapper.<br />leave it "
+"blank for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"top padding\"</strong> for slider wrapper."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"top\"</strong> for caption.<br />with \"px\" or in percent for "
+"ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"top\"</strong> for pagination."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"top\"</strong> for thumbnails location.<br />with \"px\" or in "
+"percent for ex. 200px or 50%"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"type of pagination\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"width\"</strong> for images."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"width\"</strong> for logo.<br />leave it blank for original "
+"size.<br />without unit for ex. 200"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set <strong>\"width\"</strong> for slider."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set <strong>\"width\"</strong> for thumbnails.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set breadcrumb position."
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4411
+msgid "set color for "
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font size for <strong>\"body\"</strong>.<br />use \"px\" or \"em\" or "
+"other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font size for <strong>\"footer heading\"</strong>.<br />use \"px\" or "
+"\"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font size for <strong>\"main navigation\"</strong>.<br />use \"px\" or "
+"\"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font size for <strong>\"sidebar heading\"</strong>.<br />use \"px\" or "
+"\"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font size for <strong>\"slogan\"</strong>.<br />use \"px\" or \"em\" or "
+"other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font size for <strong>\"stunning text\"</strong>.<br />use \"px\" or \"em"
+"\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font size for <strong>\"widgets title\"</strong>.<br />use \"px\" or \"em"
+"\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font-size for <strong>\"h1\"</strong>.<br />use \"px\" or \"em\" or "
+"other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font-size for <strong>\"h2\"</strong>.<br />use \"px\" or \"em\" or "
+"other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font-size for <strong>\"h3\"</strong>.<br />use \"px\" or \"em\" or "
+"other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font-size for <strong>\"h4\"</strong>.<br />use \"px\" or \"em\" or "
+"other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font-size for <strong>\"h5\"</strong>.<br />use \"px\" or \"em\" or "
+"other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set font-size for <strong>\"h6\"</strong>.<br />use \"px\" or \"em\" or "
+"other unit. for ex. 36px or 2em"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set radius for <strong>\"left sidebar\"</strong>.<br />It is used when you "
+"set the background color.<br />use \"px\" or \"%\" etc. for ex. 20px"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set radius for <strong>\"right sidebar\"</strong>.<br />It is used when you "
+"set the background color.<br />use \"px\" or \"%\" etc. for ex. 20px"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set social share for<strong>\"Delicious\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set social share for<strong>\"Digg\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set social share for<strong>\"Face Book\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set social share for<strong>\"Google\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set social share for<strong>\"Linkedin\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set social share for<strong>\"My Space\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set social share for<strong>\"Reddit\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set social share for<strong>\"Stumble Upon\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set social share for<strong>\"Twitter\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "set top information position."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Delicious\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Deviant Art\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Digg\"</strong>.<br />leave it blank if you want remove "
+"it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Face Book\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Flickr\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Google\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Lastfm\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Linkedin\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Picasa\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"RSS\"</strong>.<br />leave it blank if you want remove "
+"it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Stumble Upon\"</strong>.<br />leave it blank if you "
+"want remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Tumblr\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Twitter\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"Vimeo\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"set url for<strong>\"You Tube\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "show <strong>\"direction\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "show <strong>\"pagination\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "show <strong>\"thumbnails\"</strong> preview\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"show or hide divider between sidebar and content.<br />for set divider color "
+"go to coloring."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"show or hide footer completely.<br />this section includes <strong>\"widget "
+"section\"</strong> and <strong>\"copyright section\"</strong>"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "show or hide footer widget section."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "show or hide main navigation arrow."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "show or hide menu item divider."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"show or hide your body background image.<br />this is only for background "
+"image no pattern`s"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "show or hide your desired background."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "show or hide your favicon."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "show or hide your logo."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "slide <strong>\"transition speed\"</strong> (ms)."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "slide <strong>\"transition speed</strong> (ms)."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"specify <strong>\"Slide Direction\"</strong> parameter.<br />choose top "
+"right, top left, bottom right, bottom left when \"superSlide\" is selected "
+"for effect."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "specify <strong>\"effect\"</strong> parameter."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "specify <strong>\"how show caption\"</strong>."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"sticky for kwick slides<br />one kwick will <strong>\"always be expanded\"</"
+"strong> if true."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"the <strong>\"initially expanded kwick\"</strong> (if and only if sticky is "
+"true).<br />default is 0 (index of slide)."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"this causes the slides to be shown in <strong>\"random order\"</strong>, "
+"rather than sequential."
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:173
+msgid "uncover"
+msgstr ""
+
+#. Text in echo
+#: persian-art-testimonial-widget.php:174
+msgid "uncover fade"
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "use <strong>\"keyboard\"</strong> navigation."
+msgstr ""
+
+#. Text in echo
+#: theme-option.php:4411
+msgid "use name or hex etc...."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "use this option for show or hide copyright."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"use this option for show or hide footer navigation.<br />Do not add any text "
+"when using navigation in desired section."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid ""
+"when it is on, your custom style will be used.<br />include your desired "
+"options in coloring section."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "you can enable/disable page comment from here."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "you can enable/disable responsive from here."
+msgstr ""
+
+#. Text in function
+#: theme-option.php:4540
+msgid "you can enable/disable sticky menu from here."
+msgstr ""

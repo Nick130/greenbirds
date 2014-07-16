@@ -1,0 +1,1070 @@
+@charset "utf-8";
+
+::selection {
+	color:;
+	background-color:;
+}
+::-moz-selection {
+	color:;
+	background-color:;
+}
+a {
+	color:;
+}
+a:hover {
+	color:;
+}
+
+h1, h2, h3, h4, h5, h6,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	font-family:;
+	color:;
+}
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+	color:;
+	color:;
+}
+h1 {
+	font-size:;
+}
+h2 {
+	font-size:;
+}
+h3 {
+	font-size:;
+}
+h4 {
+	font-size:;
+}
+h5 {
+	font-size:;
+}
+h6 {
+	font-size:;
+}
+
+.h-wrapper h1,
+.h-wrapper h2,
+.h-wrapper h3,
+.h-wrapper h4,
+.h-wrapper h5,
+.h-wrapper h6 {
+	background-color:;
+}
+.h-wrapper .line {
+	background-color:;
+}
+
+.normal-button,
+.normal-button.small,
+.normal-button.larg,
+.normal-button.xlarg,
+input[type='submit'] {
+	color:;
+	background-color:;
+}
+.normal-button:hover,
+.normal-button.small:hover,
+.normal-button.larg:hover,
+.normal-button.xlarg:hover,
+input[type='submit']:hover {
+	color:;
+	background-color:;
+}
+
+
+body {
+	background-attachment:;
+	color:;
+	background-color:;
+	font-size:;
+}
+.body-background {
+}
+.body-wrapper {
+	margin-top:;
+	margin-bottom:;
+}
+#header {
+	background-color:;
+}
+#header-up {
+	height:;
+}
+#main {
+	background-color:;
+}
+#footer-wrapper {
+	background-color:;
+}
+#sub-main {
+	margin-top: !important;
+	margin-bottom: !important;
+	padding-top: !important;
+	padding-bottom: !important;
+}
+
+
+#topbar-wrapper {
+}
+#header {
+}
+#menu-wrap {
+	background-color:;
+}
+#slider-wrapper {
+	padding-top:0;
+	padding-bottom:0;
+	background-color:;
+}
+#slogan-wrapper {
+}
+#main {
+}
+.content {
+}
+.sidebar {
+}
+#footer-wrapper {
+}
+#footer-wrapper .footer-top-wrapper {
+}
+#footer-wrapper .footer-bot-wrapper {
+}
+
+
+.social-wrapper .social-icon a {
+	background-color:;
+}
+.social-wrapper .social-icon a:hover {
+	background-color:;
+}
+
+
+.sf-menu a {
+	font-size:;
+}
+
+
+#topbar-wrapper {
+	background-color:;
+}
+#topbar,
+#topbar a {
+	color:;
+}
+#topbar a:hover {
+	color:;
+}
+
+
+.top-information {
+	color:;
+	background-color:;
+}
+.top-information a,
+.top-information a:hover {
+	color:;
+}
+
+
+#slogan {
+	font-family:;
+	color:;
+	font-size:;
+}
+#slogan-wrapper {
+	background-color:;
+}
+
+
+#breadcrumb {
+	color:;
+}
+#breadcrumb a,
+#breadcrumb a:hover {
+	color:;
+}
+#breadcrumb-wrapper {
+	background-color:;
+	border-color:;
+}
+
+
+.sidebar .widget > h3,
+.sidebar .widget > .h-wrapper h3 {
+	font-family:;
+	font-size:;
+	color:;
+	background-color:;
+}
+
+
+.sidebar .grid_3, .sidebar .grid_4 {
+	color:;
+}
+
+
+.sidebar.sidebarright .grid_3, .sidebar.sidebarright .grid_4 {
+}
+.sidebar.sidebarleft .grid_3, .sidebar.sidebarleft .grid_4 {
+}
+
+
+
+
+
+
+.sidebar a {
+	color:;
+}
+.sidebar a:hover {
+	color:;
+}
+
+
+.sidebar h5 a {
+	color:;
+}
+.sidebar h5 a:hover {
+	color:;
+}
+
+
+.sidebar .widget_calendar caption {
+	color:;
+}
+.sidebar .widget_calendar tbody td a {
+	background:;
+}
+
+
+.sidebar .tagcloud a {
+	color:;
+	background:;
+	border-color:;
+}
+
+
+.sidebar .search-wrapper {
+	background-color:;
+	border-color:;
+}
+.sidebar .search-wrapper input.submit {
+	background-color:;
+}
+.sidebar .searchform input.text {
+	color:;
+}
+
+
+.sidebar .widget-recent-portfolio .date {
+	color:;
+	background-color:;
+}
+.sidebar .widget-recent-post .date{
+	color:;
+	background-color:;
+}
+.sidebar .widget-recent-comments .author {
+	color:;
+	background-color:;
+}
+.sidebar .post-widget-item h5 {
+    border-color:;
+}
+
+
+.sidebar .widget-recent-post .details-wrap {
+	color:;
+	background-color:;
+}
+
+
+
+
+.sidebar .widget-recent-post .details-wrap {
+	background-color:;
+}
+
+
+.sidebar .portfolio_cycle_widget .featured-thumbnail,
+.sidebar .post_cycle_widget .featured-thumbnail {
+	background:;
+}
+
+
+.sidebar .testimonial {
+	color:;
+	background-color:;
+}
+.sidebar .testimonial .testi-name,
+.sidebar .testimonial .testi-name a {
+	color:;
+}
+.sidebar .testimonial .testi-pic a {
+	background:;
+}
+.sidebar .testimonial-widget-nav .next,
+.sidebar .testimonial-widget-nav .prev {
+	background-color:;
+}
+
+
+.sidebar #twitter_update_list li {
+	color:;
+	background-color:;
+}
+.sidebar #twitter_update_list span {
+    border-color:;
+}
+.sidebar #twitter_update_list li a,
+.sidebar #twitter_update_list li a:hover {
+	color:;
+}
+
+
+.sidebar .flickr-widget a img {
+    background-color:;
+}
+
+
+.sidebar #widget-contactForm input[type='text'],
+.sidebar #widget-contactForm textarea {
+	color:;
+	background-color:;
+    border-color:;
+}
+
+
+.sidebar #widget-contactForm input[type='submit'] {
+	color:;
+	background-color:;
+}
+
+
+.sidebar h5,
+#footer-wrapper h5 {
+	font-size:;
+}
+
+
+#footer-wrapper .widget > h3 {
+	font-family:;
+	font-size:;
+	color:;
+}
+
+
+#footer-wrapper .footer-top-wrapper {
+	background-color:;
+	color:;
+}
+
+
+#footer-wrapper  a {
+	color:;
+}
+#footer-wrapper a:hover {
+	color:;
+}
+
+
+#footer-wrapper div[id|="calendar"] tbody td a {
+	background:;
+}
+
+
+#footer-wrapper a[class^="tag-link"] {
+	background:;
+	border-color:;
+}
+
+
+#footer-wrapper .tagcloud a {
+	color:;
+	background:;
+	border-color:;
+}
+
+
+#footer-wrapper .search-wrapper {
+	background-color:;
+	border-color:;
+}
+#footer-wrapper .search-wrapper input.submit {
+	background-color:;
+}
+#footer-wrapper .searchform input.text {
+	color:;
+}
+
+
+#footer-wrapper div[id|="calendar"] caption {
+	color:;
+}
+
+
+#footer-wrapper .footer-top-wrapper h5 a {
+	color:;
+}
+#footer-wrapper .footer-top-wrapper h5 a:hover {
+	color:;
+}
+
+
+#footer-wrapper .widget-recent-portfolio .date {
+	color:;
+	background-color:;
+}
+#footer-wrapper .widget-recent-post .date{
+	color:;
+	background-color:;
+}
+#footer-wrapper .widget-recent-comments .author {
+	color:;
+	background-color:;
+}
+
+
+#footer-wrapper .post-widget-item h5 {
+    border-color:;
+}
+
+
+#footer-wrapper .widget-recent-post .details-wrap {
+	color:;
+	background-color:;
+}
+
+
+
+
+#footer-wrapper .portfolio_cycle_widget  .featured-thumbnail,
+#footer-wrapper .post_cycle_widget  .featured-thumbnail {
+	background:;
+}
+#footer-wrapper .widget-recent-portfolio .shadow,
+#footer-wrapper .post_cycle_widget  .featured-thumbnail {
+}
+
+
+#footer-wrapper .testimonial {
+	color:;
+	background-color:;
+}
+#footer-wrapper .testimonial .testi-name,
+#footer-wrapper .testimonial .testi-name a {
+	color:;
+}
+#footer-wrapper .testimonial .testi-pic a {
+	background:;
+}
+#footer-wrapper .testimonial-widget-nav .next,
+#footer-wrapper .testimonial-widget-nav .prev {
+	background-color:;
+}
+
+
+#footer-wrapper #twitter_update_list li {
+	color:;
+	background-color:;
+}
+#footer-wrapper #twitter_update_list span {
+    border-color:;
+}
+#footer-wrapper #twitter_update_list li a,
+#footer-wrapper #twitter_update_list li a:hover {
+	color:;
+}
+
+
+#footer-wrapper .flickr-widget a img {
+    background-color:;
+}
+
+
+#footer-wrapper #widget-contactForm input[type='text'],
+#footer-wrapper #widget-contactForm textarea {
+	color:;
+	background-color:;
+    border-color:;
+}
+
+
+#footer-wrapper #widget-contactForm input[type='submit'] {
+	background-color:;
+	color:;
+}
+
+
+#footer-wrapper .footer-bot-wrapper {
+	background:;
+	color:;
+}
+#footer-wrapper .footer-bot-wrapper a {
+	color:;
+}
+#footer-wrapper .footer-bot-wrapper a:hover {
+	color:;
+}
+
+
+#logo-wrapper a {
+	margin-left:;
+	margin-right:;
+	margin-top:;
+	margin-bottom:;
+}
+
+#menu-wrapper {
+	background-color:;
+	border-radius:;
+	-webkit-border-radius:;
+	-moz-border-radius:;
+}
+
+
+
+
+.sf-menu > li:hover > a, 
+.sf-menu > li.sfHover > a,
+.sf-menu > li.current-menu-item > a {
+	border-color:;
+}
+
+
+.sf-menu > li > a {
+	color: !important;
+	background-color:;
+}
+.sf-menu > li.current-menu-item > a {
+	color: !important;
+	background-color:;
+}
+.sf-menu > li > a:hover,
+.sf-menu > li.sfHover > a {
+	color: !important;
+	background-color:;
+}
+
+
+.sf-menu li ul {
+	border-bottom-color:;
+	background:;
+}
+
+
+.sf-menu li li a {
+	color: !important;
+}
+.sf-menu li li a:hover,
+.sf-menu li li.sfHover > a,
+.sf-menu li li.current-menu-item > a {
+	color: !important;
+	background:;
+}
+
+
+.top-search-wrapper {
+	background:;
+}
+.search-wrapper input.text {
+	color:;
+	background:;
+}
+
+
+#error404 h1 {
+	color:;
+}
+#error404 {
+	color:;
+}
+#error404 .search-wrapper {
+	background-color:;
+	border-color:;
+}
+#error404 .search-wrapper input.submit {
+	background-color:;
+}
+#error404 .searchform input.text {
+	color:;
+}
+
+
+.posts .featured-thumbnail {
+	background-color:;
+}
+.post-info {
+	color:;
+	background-color:;
+}
+.post-info a,
+.post-info a:hover  {
+	color:;
+}
+.posts .post-icon,
+.posts.single .post-icon {
+	background-color:;
+}
+.posts .featured-thumbnail-wrapper .date-wrap,
+.posts.single .featured-thumbnail-wrapper .date-wrap {
+	color:;
+	background-color:;
+}
+
+
+.older-newer {
+	background-color:;
+}
+.older-newer a {
+	color:;
+}
+.older-newer a:hover {
+	color:;
+}
+
+
+.author-info {
+	color:;
+	background:;
+	border-color:;
+}
+.author-info h3 {
+	color:;
+}
+.author-info a,
+.author-info h3 a {
+	color:;
+}
+
+
+.featured-thumbnail .zoom-icon.related-post h3 {
+	color:;
+}
+.featured-thumbnail .zoom-icon.related-post {
+    background-color:;
+}
+.ports .related .zoom-icon {
+	background-color:;
+}
+
+
+ol.commentlist li.comment  {
+	color:;
+	background:;
+}
+ol.commentlist li.comment  a {
+	color:;
+}
+
+
+#respond form div,
+#contact-form form > div {
+	background-color:;
+}
+#respond form input[type='text'],
+#respond form textarea,
+#contact-form input[type='text'],
+#contact-form textarea {
+	color:;
+}
+
+input[type='submit'] {
+	color:;
+	background-color:;
+}
+
+
+.ports .featured-thumbnail {
+	background-color:;
+}
+#port-details-wrapper .date-wrapper {
+    color:;
+    background-color:;
+}
+#port-details-wrapper .date-wrapper .post-icon  {
+    background-color:;
+}
+#port-details span.sub-title {
+	color:;
+}
+
+
+.portfolio-item-wrapper.default h2 {
+	color:;
+}
+.portfolio-item-wrapper.default .portfolio-item-category a {
+	color:;
+}
+.portfolio-item-wrapper.default .normal-button {
+	color:;
+	background-color:;
+}
+.portfolio-item-wrapper.default .portfolio-item-context {
+	color:;
+	background-color:;
+	border-color:;
+}
+
+
+.portfolio-item-wrapper.simple .date-wrapper {
+    color:;
+    background:;
+}
+.portfolio-item-wrapper.simple .portfolio-item-category a {
+	color:;
+}
+.portfolio-item-wrapper.simple .normal-button {
+	color:;
+	background-color:;
+}
+
+
+.portfolio-item-wrapper.style1 h2,
+.portfolio-item-wrapper.style2 h2 {
+    color:;
+    background:;
+}
+.portfolio-item-wrapper.style1 .portfolio-item-category a,
+.portfolio-item-wrapper.style2 .portfolio-item-category a {
+	color:;
+}
+.portfolio-item-wrapper.style1 .portfolio-item-context,
+.portfolio-item-wrapper.style2 .portfolio-item-context {
+	color:;
+	background-color:;
+	border-color:;
+}
+.portfolio-item-wrapper.style1 .normal-button,
+.portfolio-item-wrapper.style2 .normal-button {
+	color:;
+	background-color:;
+}
+
+
+.portfolio-item-wrapper.gallery h2 {
+	color:;
+}
+.featured-thumbnail .zoom-icon.gallery-port {
+    background-color:;
+}
+.featured-thumbnail .zoom-icon.gallery-port .iconcontainer span {
+	background-color:;
+}
+.featured-thumbnail .zoom-icon.gallery-port .iconcontainer span:hover {
+	background-color:;
+}
+.featured-thumbnail .zoom-icon.gallery-port {
+    border-color:;
+}
+.featured-thumbnail .zoom-icon.gallery-port .port-cat {
+    color:;
+    background-color:;
+}
+
+
+.portfolio-item-wrapper.gallery.border h2 {
+	color:;
+}
+.ports .portfolio-item-wrapper.gallery.border .featured-thumbnail {
+    background-color:;
+}
+.featured-thumbnail .zoom-icon.gallery-port.border {
+    background-color:;
+}
+.featured-thumbnail .zoom-icon.gallery-port.border .iconcontainer span {
+	background-color:;
+}
+.featured-thumbnail .zoom-icon.gallery-port.border .iconcontainer span:hover {
+	background-color:;
+}
+.featured-thumbnail .zoom-icon.gallery-port .port-icon-wrapper a {
+    color:;
+}
+
+
+#load-portfolio a {
+	color:;
+}
+#load-portfolio a:hover,
+#load-portfolio a.active {
+	color:;
+	border-color:;
+}
+
+
+#pagination span, #pagination a {
+	color:;
+	background-color:;
+}
+#pagination a:hover{
+	color:;
+	background-color:;
+}
+#pagination .current{
+	color:;
+	background-color:;
+}
+
+
+.stunningtext-title {
+	font-family:;
+	font-size:;
+}
+
+
+#backtotop {
+	bottom:50px;
+	right:50px;
+} ?>
+	background-color:;
+	border-color:;
+}
+
+
+
+#nivoslider-wrapper {
+	background-color:;
+	margin-top:0;
+	margin-bottom:0;
+}
+
+
+
+#nivoslider .nivo-caption {
+	bottom:0;
+	top:0;
+	left:0;
+	right:0;
+	background-color:;
+	background-image:;
+	color:;
+	text-align:;
+	width:;
+	height:;
+	border-radius:;
+	-webkit-border-radius:;
+	-moz-border-radius:;
+}
+#nivoslider .nivo-caption > p {
+	padding:;
+}
+#nivoslider .nivo-caption .nivo-title,
+#nivoslider .nivo-caption .nivo-title a {
+	color:;
+}
+
+
+#kwicks-wrapper {
+	margin-top:0;
+	margin-bottom:0;
+}
+
+.kwicks .link {
+	color:;
+}
+
+
+
+#showcase-holder {
+	margin-top:0;
+	margin-bottom:0;
+}
+
+
+.showcase-caption {
+	bottom:0;
+	top:0;
+	left:0;
+	right:0;
+	background-image:;
+	background-color:;
+	opacity:;
+	color:;
+	width:;
+	height:;
+	border-radius:;
+	-webkit-border-radius:;
+	-moz-border-radius:;
+	padding:;
+	text-align:;
+}
+.showcase-caption .showcase-title,
+.showcase-caption .showcase-title a {
+	color:;
+}
+
+.showcase-thumbnail {
+	border-color:;
+}
+.showcase-thumbnail:hover, .showcase-thumbnail.active {
+	border-color:;
+}
+.showcase-thumbnail-container {
+	background-color:;
+}
+#showcase-holder {
+	background-color:;
+}
+
+
+.cycle-wrapper {
+	margin-top:0;
+	margin-bottom:0;
+	background-color:;
+}
+.cycle-caption {
+	bottom:0;
+	top:0;
+	left:0;
+	right:0;
+	background-image:;
+	background-color:;
+	opacity:;
+	color:;
+	width:;
+	height:;
+	border-radius:;
+	-webkit-border-radius:;
+	-moz-border-radius:;
+	padding:;
+	text-align:;
+}
+.cycle-caption .cycle-title,
+.cycle-caption .cycle-title a {
+	color:;
+}
+
+
+#roundaboutslider {
+	margin-top:0;
+	margin-bottom:0;
+}
+.roundabout-caption {
+	bottom:0;
+	top:0;
+	left:0;
+	right:0;
+	background-image:;
+	background-color:;
+	opacity:;
+	color:;
+	width:;
+	height:;
+	border-radius:;
+	-webkit-border-radius:;
+	-moz-border-radius:;
+	padding:;
+	text-align:;
+}
+.roundabout-caption .roundabout-title,
+.roundabout-caption .roundabout-title a {
+	color:;
+}
+
+
+.roundabout-moveable-item {
+	border-bottom-color:;
+}
+
+
+
+
+#liteaccordion {
+	margin-top:0;
+	margin-bottom:0;
+}
+.liteaccordion-caption {
+	bottom:0;
+	top:0;
+	left:0;
+	right:0;
+	background-image:;
+	background-color:;
+	opacity:;
+	color:;
+	width:;
+	height:;
+	border-radius:;
+	-webkit-border-radius:;
+	-moz-border-radius:;
+	padding:;
+	text-align:;
+}
+#liteaccordion ol li > h2 {
+	background:;
+	border-left-color:;
+}
+#liteaccordion ol li > div > div {
+	border-left-color:;
+}
+#liteaccordion ol li > h2 > span.slide_name {
+	color:;
+}
+#liteaccordion ol li > h2.selected > span.slide_name {
+	color:;
+}
+#liteaccordion ol li > h2 > span.slide_number {
+	color:;
+}
+#liteaccordion ol li > h2.selected > span.slide_number {
+	color:;
+}
+.liteaccordion-caption .liteaccordion-title,
+.liteaccordion-caption .liteaccordion-title a {
+	color:;
+}
+
+
+#tmslider-holder {
+	margin-top:0;
+	margin-bottom:0;
+	background-color:;
+}
+
+
+#tmslider-wrapper {
+	width:1600;
+}
+
+
+.tm-caption {
+	bottom:0;
+	top:0;
+	left:0;
+	right:0;
+	background-image:;
+	background-color:;
+	opacity:;
+	color:;
+	width:;
+	height:;
+	border-radius:;
+	-webkit-border-radius:;
+	-moz-border-radius:;
+	padding:;
+	text-align:;
+	display:none;
+}
+.tm-caption .tm-title,
+.tm-caption .tm-title a {
+	color:;
+}
+
+
+.sliderNav {
+    top:;
+    left:;
+    margin:;
+}
+.sliderNav #nav ul li a {
+	background-color:;
+}
+.sliderNav #nav ul li.showPage a {
+	background-color:;
+}
+
+
+

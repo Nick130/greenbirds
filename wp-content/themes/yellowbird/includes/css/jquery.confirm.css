@@ -1,0 +1,96 @@
+#confirmOverlay {
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:0;
+	left:0;
+	background:-moz-linear-gradient(rgba(11,11,11,0.1), rgba(11,11,11,0.6)) repeat-x rgba(11,11,11,0.2);
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(11,11,11,0.1)), to(rgba(11,11,11,0.6))) repeat-x rgba(11,11,11,0.2);
+	background:url(../images/overlay.png);
+	z-index:100000;
+}
+
+#confirmBox {
+	background:#f1f1f1;
+	width:460px;
+	position:fixed;
+	left:50%;
+	top:50%;
+	margin:-130px 0 0 -230px;
+	border: 1px solid rgba(33, 33, 33, 0.6);
+
+	-moz-box-shadow: 0 0 2px rgba(255, 255, 255, 0.6) inset;
+	-webkit-box-shadow: 0 0 2px rgba(255, 255, 255, 0.6) inset;
+	box-shadow: 0 0 2px rgba(255, 255, 255, 0.6) inset;
+}
+
+#confirmBox h1,
+#confirmBox p {
+	font:26px/1 'Cuprum','Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	background:#f5f5f5;
+	padding:0 25px;
+	text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.6);
+	color:#666;
+}
+
+#confirmBox h1{
+	letter-spacing:0.3px;
+	color:#888;
+	margin-top:30px;
+	padding:10px 25px;
+	background:#f6f6f6 url(../images/confirm.png);
+}
+
+#confirmBox p {
+	background:none;
+	font-size:16px;
+	line-height:1.4;
+}
+
+#confirmButtons {
+	padding:15px 0 25px;
+	text-align:center;
+}
+
+#confirmBox .button {
+	display:inline-block;
+	background:url(../images/confirm.png) no-repeat;
+	color:#888;
+	position:relative;
+	height:37px;
+	width:117px;
+	font:17px/17px 'Cuprum', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	padding:0;
+	margin-left:20px;
+	text-decoration:none;
+	border:none;
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	border-radius:0;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+	box-shadow:none;
+	-webkit-transition-duration:0;
+	-moz-transition-duration:0;
+	transition-duration:0;
+}
+
+#confirmBox .button:first-child {margin-left:0;}
+
+#confirmBox .button span {
+	display:none;
+/*	position:absolute;
+	top:0;
+	right:-5px;
+	background:url('buttons.png') no-repeat;
+	width:5px;
+	height:33px*/
+}
+
+#confirmBox .confirm-yes {text-shadow:1px 1px 0 #fff; background:url(../images/yes.png) no-repeat;}
+#confirmBox .confirm-yes:hover {background-position:0 -37px;}
+#confirmBox .confirm-yes:active {background-position:0 -74px;}
+
+#confirmBox .confirm-no {text-shadow:1px 1px 0 #fff; background:url(../images/no.png) no-repeat;}
+#confirmBox .confirm-no:hover {background-position:0 -37px;}
+#confirmBox .confirm-no:active {background-position:0 -74px;}
